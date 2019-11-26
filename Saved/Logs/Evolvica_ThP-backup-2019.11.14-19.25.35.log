@@ -1,0 +1,1706 @@
+﻿Log file open, 11/14/19 19:58:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Evolvica_ThP
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.068676
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1060 with Max-Q Design
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Unreal/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Evolvica/Saved/Config/Windows/Engine.ini]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2019.11.14-16.58.18:338][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Evolvica/Saved/Config/Windows/Engine.ini]
+[2019.11.14-16.58.18:339][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Evolvica/Saved/Config/Windows/Engine.ini]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Evolvica/Saved/Config/Windows/Engine.ini]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.14-16.58.18:339][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.14-16.58.18:340][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.14-16.58.18:340][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.14-16.58.18:340][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.14-16.58.18:340][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Evolvica/Saved/Config/Windows/Engine.ini]
+[2019.11.14-16.58.18:340][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Evolvica/Saved/Config/Windows/Engine.ini]
+[2019.11.14-16.58.18:342][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Evolvica/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-16.58.18:342][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.14-16.58.18:342][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.14-16.58.18:342][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Evolvica/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-16.58.18:342][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.14-16.58.18:342][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Evolvica/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Evolvica/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Evolvica/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Evolvica/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.14-16.58.18:343][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.14-16.58.18:344][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.14-16.58.18:344][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.14-16.58.18:344][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.14-16.58.18:344][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Evolvica/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-16.58.18:344][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.14-16.58.18:344][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.14-16.58.18:344][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.14-16.58.18:344][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.14-16.58.18:346][  0]LogHAL: Display: Platform has ~ 16 GB [17136533504 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.14-16.58.18:346][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.14-16.58.18:346][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Evolvica/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-16.58.18:346][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.14-16.58.18:346][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.14-16.58.18:346][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Evolvica/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-16.58.18:346][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.14-16.58.18:346][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Evolvica/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-16.58.18:346][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.14-16.58.18:346][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.14-16.58.18:346][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.14-16.58.18:346][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.14-16.58.18:346][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.14-16.58.18:346][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.14-16.58.18:346][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.14-16.58.18:346][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.14-16.58.18:346][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.14-16.58.18:346][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Evolvica/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Evolvica/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Evolvica/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Evolvica/Saved/Config/Windows/Scalability.ini]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.14-16.58.18:347][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.14-16.58.18:348][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.14-16.58.18:348][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.14-16.58.18:348][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.14-16.58.18:348][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Evolvica/Saved/Config/Windows/Engine.ini]
+[2019.11.14-16.58.18:348][  0]LogInit: Computer: LAPTOP-9G8CLTLF
+[2019.11.14-16.58.18:348][  0]LogInit: User: HP
+[2019.11.14-16.58.18:348][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.14-16.58.18:348][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.14-16.58.18:348][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.11.14-16.58.18:348][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.14-16.58.18:348][  0]LogMemory: Process Physical Memory: 101.97 MB used, 101.97 MB peak
+[2019.11.14-16.58.18:348][  0]LogMemory: Process Virtual Memory: 99.08 MB used, 99.08 MB peak
+[2019.11.14-16.58.18:348][  0]LogMemory: Physical Memory: 7736.22 MB used,  8606.45 MB free, 16342.67 MB total
+[2019.11.14-16.58.18:348][  0]LogMemory: Virtual Memory: 4666.94 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.11.14-16.58.18:355][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.11.14-16.58.18:409][  0]LogInit: Using OS detected language (ru-RU).
+[2019.11.14-16.58.18:409][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.11.14-16.58.18:410][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2019.11.14-16.58.18:410][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2019.11.14-16.58.18:410][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2019.11.14-16.58.18:410][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2019.11.14-16.58.18:410][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2019.11.14-16.58.18:411][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2019.11.14-16.58.18:411][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2019.11.14-16.58.18:411][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2019.11.14-16.58.18:412][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.14-16.58.18:440][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.14-16.58.18:440][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.14-16.58.18:664][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.14-16.58.18:664][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.14-16.58.18:730][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (Feature Level 11_0)
+[2019.11.14-16.58.18:730][  0]LogD3D11RHI:       6052/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.11.14-16.58.18:733][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.14-16.58.18:733][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.14-16.58.18:733][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.14-16.58.18:741][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.14-16.58.18:741][  0]LogD3D11RHI:     GPU DeviceId: 0x1c60 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.14-16.58.18:741][  0]LogWindows: EnumDisplayDevices:
+[2019.11.14-16.58.18:741][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:1 D:1)
+[2019.11.14-16.58.18:742][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2019.11.14-16.58.18:742][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2019.11.14-16.58.18:742][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 with Max-Q Design' (P:0 D:0)
+[2019.11.14-16.58.18:743][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.11.14-16.58.18:743][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 with Max-Q Design
+[2019.11.14-16.58.18:743][  0]LogD3D11RHI:   Driver Version: 398.36 (internal:24.21.13.9836, unified:398.36)
+[2019.11.14-16.58.18:743][  0]LogD3D11RHI:      Driver Date: 6-24-2018
+[2019.11.14-16.58.18:743][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.11.14-16.58.18:780][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.14-16.58.18:798][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.11.14-16.58.19:261][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.14-16.58.19:269][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.14-16.58.19:278][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.14-16.58.19:286][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.14-16.58.19:295][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.14-16.58.19:303][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.14-16.58.19:311][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.14-16.58.19:319][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.14-16.58.19:323][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.14-16.58.19:357][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.14-16.58.19:357][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.14-16.58.19:357][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.14-16.58.19:357][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.14-16.58.19:357][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.14-16.58.19:357][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.14-16.58.19:357][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.14-16.58.19:357][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.14-16.58.19:357][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.14-16.58.19:357][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.14-16.58.19:357][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.14-16.58.19:357][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.14-16.58.19:357][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.14-16.58.19:357][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.14-16.58.19:357][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.14-16.58.19:357][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.14-16.58.19:357][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.14-16.58.19:357][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.14-16.58.19:359][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.14-16.58.19:381][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.14-16.58.19:381][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.14-16.58.19:401][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.14-16.58.19:401][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.14-16.58.19:412][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.14-16.58.19:422][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.14-16.58.19:433][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.14-16.58.19:442][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.14-16.58.19:469][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.14-16.58.19:469][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.14-16.58.19:469][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.14-16.58.19:479][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.14-16.58.19:534][  0]LogShaderCompilers: Guid format shader working directory is 19 characters bigger than the processId version (../../../../../Evolvica/Intermediate/Shaders/WorkingDirectory/18828/).
+[2019.11.14-16.58.19:534][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/HP/AppData/Local/Temp/UnrealShaderWorkingDir/21F141034C6900D5273533898E48D3AE/'.
+[2019.11.14-16.58.19:536][  0]LogXGEController: Cleaning working directory: C:/Users/HP/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.14-16.58.19:537][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.14-16.58.19:537][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.14-16.58.19:537][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.14-16.58.20:235][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.14-16.58.20:301][  0]LogDerivedDataCache: Loaded boot cache 0.06s 90MB C:/Users/HP/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.14-16.58.20:301][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/HP/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.14-16.58.20:301][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Evolvica/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.14-16.58.20:301][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.14-16.58.20:301][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Evolvica/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.14-16.58.20:301][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.14-16.58.20:315][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.14-16.58.20:315][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.14-16.58.20:315][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.14-16.58.20:317][  0]LogDerivedDataCache: Using Local data cache path C:/Users/HP/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.14-16.58.20:317][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.14-16.58.20:317][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.14-16.58.20:340][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.14-16.58.20:343][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.14-16.58.20:343][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.14-16.58.20:409][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2019.11.14-16.58.20:711][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.14-16.58.20:760][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.14-16.58.20:760][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.14-16.58.20:760][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.14-16.58.20:760][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.14-16.58.20:760][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.14-16.58.20:879][  0]LogNetVersion: Evolvica_ThP 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1680898839)
+[2019.11.14-16.58.21:367][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.054348 seconds
+[2019.11.14-16.58.21:373][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.11.14-16.58.21:373][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.11.14-16.58.21:373][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.14-16.58.22:364][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.14-16.58.22:367][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.14-16.58.22:437][  0]SourceControl: Source control is disabled
+[2019.11.14-16.58.22:437][  0]SourceControl: Source control is disabled
+[2019.11.14-16.58.22:439][  0]SourceControl: Source control is disabled
+[2019.11.14-16.58.22:441][  0]SourceControl: Source control is disabled
+[2019.11.14-16.58.22:450][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.14-16.58.22:451][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.14-16.58.22:533][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.14-16.58.22:651][  0]LogOcInput: OculusInput pre-init called
+[2019.11.14-16.58.22:658][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.11.14-16.58.22:658][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.11.14-16.58.22:736][  0]LogEngine: Initializing Engine...
+[2019.11.14-16.58.22:737][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.14-16.58.22:738][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.14-16.58.22:975][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.14-16.58.22:987][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.14-16.58.23:063][  0]LogInit: XAudio2 using 'Громкоговоритель и наушники (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.14-16.58.23:107][  0]LogInit: FAudioDevice initialized.
+[2019.11.14-16.58.23:107][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.14-16.58.23:268][  0]LogDerivedDataCache: Saved boot cache 0.16s 90MB C:/Users/HP/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.14-16.58.23:283][  0]LogInit: Texture streaming: Enabled
+[2019.11.14-16.58.23:302][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.14-16.58.23:302][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.11.14-16.58.23:307][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.11.14-16.58.23:372][  0]LogInit: Transaction tracking system initialized
+[2019.11.14-16.58.23:398][  0]BlueprintLog: New page: Editor Load
+[2019.11.14-16.58.23:461][  0]LocalizationService: Localization service is disabled
+[2019.11.14-16.58.23:530][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.14-16.58.23:530][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.14-16.58.23:712][  0]LogFileCache: Scanning file cache for directory 'D:/Evolvica/Content/' took 0.01s
+[2019.11.14-16.58.23:712][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.14-16.58.23:712][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.14-16.58.23:911][  0]SourceControl: Source control is disabled
+[2019.11.14-16.58.23:911][  0]Cmd: MAP LOAD FILE="../../../../../Evolvica/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.14-16.58.23:911][  0]LogEditorServer: Warning: Can't find file '../../../../../Evolvica/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.11.14-16.58.23:911][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.14-16.58.23:911][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,094ms to complete.
+[2019.11.14-16.58.23:911][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.000
+[2019.11.14-16.58.24:008][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-16.58.24:016][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-16.58.24:023][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-16.58.24:029][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.14-16.58.24:035][  0]LogCollectionManager: Loaded 0 collections in 0.001038 seconds
+[2019.11.14-16.58.24:041][  0]LogFileCache: Scanning file cache for directory 'D:/Evolvica/Saved/Collections/' took 0.00s
+[2019.11.14-16.58.24:041][  0]LogFileCache: Scanning file cache for directory 'D:/Evolvica/Content/Developers/HP/Collections/' took 0.00s
+[2019.11.14-16.58.24:041][  0]LogFileCache: Scanning file cache for directory 'D:/Evolvica/Content/Collections/' took 0.00s
+[2019.11.14-16.58.24:041][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.11.14-16.58.24:050][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2863 classes and 680 folders.
+[2019.11.14-16.58.24:056][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.14-16.58.24:110][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.14-16.58.24:115][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.11.14-16.58.24:122][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2019.11.14-16.58.24:180][  0]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.14-16.58.24:182][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.14-16.58.24:187][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.14-16.58.24:252][  0]LogRenderer: Reallocating scene render targets to support 1180x572 Format 10 NumSamples 1 (Frame:1).
+[2019.11.14-16.58.24:376][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.14-16.58.24:376][  0]LogLoad: (Engine Initialization) Total time: 7.62 seconds
+[2019.11.14-16.58.24:376][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.14-16.58.24:438][  0]LogAssetRegistry: Asset discovery search completed in 4.0283 seconds
+[2019.11.14-16.58.24:442][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.11.14-16.58.24:442][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000062 seconds (updated 0 objects)
+[2019.11.14-16.58.24:443][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.14-16.58.24:494][  0]LogRenderer: Reallocating scene render targets to support 1180x588 Format 10 NumSamples 1 (Frame:4).
+[2019.11.14-16.58.24:494][  0]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.14-16.58.40:069][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-16.58.41:790][283]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.14-16.58.42:084][283]LogAIModule: Creating AISystem for world Visual_Test
+[2019.11.14-16.58.42:095][283]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Visual_Test.Visual_Test
+[2019.11.14-16.58.42:123][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.11.14-16.58.42:124][283]Cmd: MAP LOAD FILE="../../../../../Evolvica/Content/Maps/Visual_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.14-16.58.42:124][283]LightingResults: New page: Lighting Build
+[2019.11.14-16.58.42:126][283]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2019.11.14-16.58.42:126][283]LoadErrors: New page: Loading map: Visual_Test.umap
+[2019.11.14-16.58.42:126][283]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.11.14-16.58.42:127][283]MapCheck: New page: Map Check
+[2019.11.14-16.58.42:127][283]LightingResults: New page: Lighting Build
+[2019.11.14-16.58.42:154][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.11.14-16.58.42:212][283]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.14-16.58.42:242][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.11.14-16.58.42:273][283]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.14-16.58.42:273][283]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,083ms to complete.
+[2019.11.14-16.58.42:274][283]LogFileHelpers: Loading map 'Visual_Test' took 0.151
+[2019.11.14-16.59.14:943][622]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 2
+[2019.11.14-16.59.16:744][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_11)
+[2019.11.14-16.59.18:302][821]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-16.59.37:756][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_1)
+[2019.11.14-16.59.38:671][545]Cmd: DELETE
+[2019.11.14-16.59.38:671][545]Cmd: ACTOR DELETE
+[2019.11.14-16.59.38:715][545]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-16.59.38:738][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2019.11.14-16.59.38:738][545]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2019.11.14-16.59.48:549][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_2)
+[2019.11.14-16.59.54:831][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.14-16.59.55:831][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.14-16.59.57:025][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_6)
+[2019.11.14-16.59.57:639][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.14-16.59.59:004][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_6)
+[2019.11.14-17.00.03:861][ 37]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.14-17.00.05:042][106]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.14-17.00.26:470][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_5)
+[2019.11.14-17.00.37:839][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.14-17.00.39:156][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_7)
+[2019.11.14-17.00.41:477][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.14-17.00.51:077][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_2)
+[2019.11.14-17.04.23:702][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.14-17.06.24:905][123]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={849572D9-4EAD-D78C-F487-62A8A9612FE6}
+[2019.11.14-17.08.41:986][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.11.14-17.08.41:987][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Visual_Test" FILE="../../../../../Evolvica/Saved/Autosaves/Game/Maps/Visual_Test_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.14-17.08.42:111][363]LogSavePackage: Moving '../../../../../Evolvica/Saved/Visual_Test_Auto13C67CD8F465F8AA8D3D52789216C75F5.tmp' to '../../../../../Evolvica/Saved/Autosaves/Game/Maps/Visual_Test_Auto1.umap'
+[2019.11.14-17.08.42:116][363]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Visual_Test' took 0.158
+[2019.11.14-17.08.42:116][363]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.158
+[2019.11.14-17.13.30:601][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_7)
+[2019.11.14-17.13.32:469][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hill_3)
+[2019.11.14-17.13.36:022][137]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.13.37:958][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_7)
+[2019.11.14-17.13.38:456][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hill_3)
+[2019.11.14-17.13.42:737][534]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.13.48:174][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_7)
+[2019.11.14-17.13.50:512][997]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.13.53:836][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_2)
+[2019.11.14-17.13.54:516][234]Cmd: DELETE
+[2019.11.14-17.13.54:516][234]Cmd: ACTOR DELETE
+[2019.11.14-17.13.54:519][234]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.13.54:547][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.11.14-17.13.54:547][234]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.11.14-17.13.55:371][284]Cmd: TRANSACTION UNDO
+[2019.11.14-17.13.55:371][284]LogEditorTransaction: Undo Delete Actors
+[2019.11.14-17.13.56:365][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_2)
+[2019.11.14-17.13.57:174][390]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.14.15:882][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_8)
+[2019.11.14-17.14.18:924][691]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.15.15:408][ 61]Cmd: DUPLICATE
+[2019.11.14-17.15.15:408][ 61]Cmd: ACTOR DUPLICATE
+[2019.11.14-17.15.50:392][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_6)
+[2019.11.14-17.16.07:655][481]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.16.08:164][510]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_9)
+[2019.11.14-17.16.10:701][660]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere2)
+[2019.11.14-17.16.11:905][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_7)
+[2019.11.14-17.16.12:285][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_9)
+[2019.11.14-17.16.17:751][ 77]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.16.21:271][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_9)
+[2019.11.14-17.16.22:099][335]Cmd: DELETE
+[2019.11.14-17.16.22:099][335]Cmd: ACTOR DELETE
+[2019.11.14-17.16.22:101][335]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.16.22:127][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.11.14-17.16.22:127][335]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.11.14-17.16.22:560][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_5)
+[2019.11.14-17.16.39:987][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_11)
+[2019.11.14-17.16.40:733][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_8)
+[2019.11.14-17.16.41:927][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_1)
+[2019.11.14-17.16.48:501][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_8)
+[2019.11.14-17.16.49:047][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_3)
+[2019.11.14-17.16.57:399][431]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.16.58:721][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_3)
+[2019.11.14-17.17.01:695][685]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.17.02:401][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_2)
+[2019.11.14-17.17.03:738][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-17.17.05:452][906]LogActorFactory: Actor Factory created Bush_3
+[2019.11.14-17.17.06:546][971]LogActorFactory: Actor Factory created Bush_3
+[2019.11.14-17.17.18:954][711]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.17.20:144][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_7)
+[2019.11.14-17.17.22:617][927]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.17.24:172][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_7)
+[2019.11.14-17.17.24:721][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_2)
+[2019.11.14-17.17.25:195][ 77]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.17.28:318][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_1)
+[2019.11.14-17.17.32:245][495]Cmd: DELETE
+[2019.11.14-17.17.32:245][495]Cmd: ACTOR DELETE
+[2019.11.14-17.17.32:246][495]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.17.32:271][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.11.14-17.17.32:272][495]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.11.14-17.17.32:667][519]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_8)
+[2019.11.14-17.17.35:399][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_5)
+[2019.11.14-17.17.38:058][839]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.17.48:726][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hill_3)
+[2019.11.14-17.17.50:163][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-17.17.51:192][623]LogActorFactory: Actor Factory created Hill_2
+[2019.11.14-17.17.52:262][687]LogActorFactory: Actor Factory created Hill_2
+[2019.11.14-17.18.06:007][508]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_1)
+[2019.11.14-17.18.06:717][549]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.18.08:291][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-17.18.08:445][651]LogActorFactory: Actor Factory created Hill_3
+[2019.11.14-17.18.09:564][718]LogActorFactory: Actor Factory created Hill_3
+[2019.11.14-17.18.19:672][321]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.18.29:106][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hill_6)
+[2019.11.14-17.18.30:384][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-17.18.31:586][ 33]LogActorFactory: Actor Factory created Hill_1
+[2019.11.14-17.18.33:025][119]LogActorFactory: Actor Factory created Hill_1
+[2019.11.14-17.18.43:324][732]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.18.51:664][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Flower_4)
+[2019.11.14-17.18.52:965][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-17.18.54:186][371]LogActorFactory: Actor Factory created Flower_2
+[2019.11.14-17.18.55:835][469]LogActorFactory: Actor Factory created Flower_2
+[2019.11.14-17.18.58:624][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_10)
+[2019.11.14-17.18.59:605][690]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.19.00:393][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-17.19.00:512][743]LogActorFactory: Actor Factory created Flower_1
+[2019.11.14-17.19.01:983][831]LogActorFactory: Actor Factory created Flower_1
+[2019.11.14-17.19.02:577][865]Cmd: DELETE
+[2019.11.14-17.19.02:577][865]Cmd: ACTOR DELETE
+[2019.11.14-17.19.02:578][865]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.19.02:600][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.11.14-17.19.02:601][865]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.11.14-17.19.03:699][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-17.19.03:818][938]LogActorFactory: Actor Factory created Flower_2
+[2019.11.14-17.19.05:337][ 29]LogActorFactory: Actor Factory created Flower_2
+[2019.11.14-17.19.08:602][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_11)
+[2019.11.14-17.19.09:889][298]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Flower_7)
+[2019.11.14-17.19.15:040][604]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.19.34:274][756]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.14-17.19.41:213][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Flower_6)
+[2019.11.14-17.19.54:286][951]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.19.57:368][134]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.20.04:083][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_8)
+[2019.11.14-17.20.04:616][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_5)
+[2019.11.14-17.20.05:099][593]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.20.05:824][635]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.20.06:437][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_7)
+[2019.11.14-17.20.16:015][242]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.20.19:204][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_8)
+[2019.11.14-17.20.19:852][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_7)
+[2019.11.14-17.20.22:490][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_3)
+[2019.11.14-17.20.24:230][727]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.20.25:036][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_7)
+[2019.11.14-17.20.27:711][932]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.20.31:185][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_2)
+[2019.11.14-17.20.34:928][359]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.14-17.20.40:255][677]Cmd: DELETE
+[2019.11.14-17.20.40:255][677]Cmd: ACTOR DELETE
+[2019.11.14-17.20.40:256][677]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.20.40:280][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.11.14-17.20.40:280][677]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.11.14-17.21.21:328][635]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.11.14-17.21.21:369][635]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.14-17.21.51:243][426]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.14-17.21.51:295][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.11.14-17.21.51:296][426]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Visual_Test" FILE="../../../../../Evolvica/Saved/Autosaves/Game/Maps/Visual_Test_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.14-17.21.51:431][426]LogSavePackage: Moving '../../../../../Evolvica/Saved/Visual_Test_Auto29B6B827047B21103D5BF38A2AD8E2D3F.tmp' to '../../../../../Evolvica/Saved/Autosaves/Game/Maps/Visual_Test_Auto2.umap'
+[2019.11.14-17.21.51:738][426]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Visual_Test' took 0.467
+[2019.11.14-17.21.51:738][426]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.467
+[2019.11.14-17.48.55:673][910]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.14-17.48.55:673][910]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.14-17.48.56:971][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-17.57.27:060][495]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.14-17.57.35:114][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_7)
+[2019.11.14-17.57.36:541][  1]Cmd: DELETE
+[2019.11.14-17.57.36:541][  1]Cmd: ACTOR DELETE
+[2019.11.14-17.57.36:544][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.57.36:575][  1]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.11.14-17.57.36:576][  1]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.11.14-17.57.37:239][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_8)
+[2019.11.14-17.57.37:350][ 46]Cmd: DELETE
+[2019.11.14-17.57.37:350][ 46]Cmd: ACTOR DELETE
+[2019.11.14-17.57.37:352][ 46]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.57.37:377][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.11.14-17.57.37:378][ 46]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.11.14-17.57.37:775][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_5)
+[2019.11.14-17.57.40:357][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_3)
+[2019.11.14-17.57.41:082][265]Cmd: DELETE
+[2019.11.14-17.57.41:082][265]Cmd: ACTOR DELETE
+[2019.11.14-17.57.41:084][265]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.57.41:107][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.11.14-17.57.41:108][265]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.11.14-17.57.41:573][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_9)
+[2019.11.14-17.57.42:010][317]Cmd: DELETE
+[2019.11.14-17.57.42:010][317]Cmd: ACTOR DELETE
+[2019.11.14-17.57.42:011][317]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.57.42:034][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.11.14-17.57.42:034][317]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.11.14-17.57.42:808][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_2)
+[2019.11.14-17.57.42:900][368]Cmd: DELETE
+[2019.11.14-17.57.42:900][368]Cmd: ACTOR DELETE
+[2019.11.14-17.57.42:902][368]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.57.42:925][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.11.14-17.57.42:925][368]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.11.14-17.57.43:507][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_11)
+[2019.11.14-17.57.43:551][404]Cmd: DELETE
+[2019.11.14-17.57.43:551][404]Cmd: ACTOR DELETE
+[2019.11.14-17.57.43:552][404]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.57.43:578][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.11.14-17.57.43:579][404]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.11.14-17.57.44:647][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_10)
+[2019.11.14-17.57.45:306][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_6)
+[2019.11.14-17.57.45:413][511]Cmd: DELETE
+[2019.11.14-17.57.45:413][511]Cmd: ACTOR DELETE
+[2019.11.14-17.57.45:415][511]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.57.45:440][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.11.14-17.57.45:441][511]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.11.14-17.57.45:881][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_10)
+[2019.11.14-17.57.45:955][541]Cmd: DELETE
+[2019.11.14-17.57.45:955][541]Cmd: ACTOR DELETE
+[2019.11.14-17.57.45:957][541]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.57.45:981][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.11.14-17.57.45:981][541]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.11.14-17.57.46:939][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_5)
+[2019.11.14-17.57.48:446][688]Cmd: DELETE
+[2019.11.14-17.57.48:446][688]Cmd: ACTOR DELETE
+[2019.11.14-17.57.48:447][688]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.57.48:473][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.11.14-17.57.48:473][688]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.11.14-17.57.49:119][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_1)
+[2019.11.14-17.57.49:178][729]Cmd: DELETE
+[2019.11.14-17.57.49:179][729]Cmd: ACTOR DELETE
+[2019.11.14-17.57.49:180][729]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.57.49:207][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.11.14-17.57.49:207][729]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.11.14-17.57.49:780][764]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_3)
+[2019.11.14-17.57.49:827][765]Cmd: DELETE
+[2019.11.14-17.57.49:827][765]Cmd: ACTOR DELETE
+[2019.11.14-17.57.49:829][765]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.57.49:853][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.11.14-17.57.49:853][765]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.11.14-17.57.50:372][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_7)
+[2019.11.14-17.57.50:513][803]Cmd: DELETE
+[2019.11.14-17.57.50:513][803]Cmd: ACTOR DELETE
+[2019.11.14-17.57.50:514][803]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.57.50:541][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.11.14-17.57.50:541][803]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.11.14-17.57.50:989][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_6)
+[2019.11.14-17.57.51:034][831]Cmd: DELETE
+[2019.11.14-17.57.51:034][831]Cmd: ACTOR DELETE
+[2019.11.14-17.57.51:035][831]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.57.51:058][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.11.14-17.57.51:059][831]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.11.14-17.57.51:364][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_6)
+[2019.11.14-17.57.51:386][849]Cmd: DELETE
+[2019.11.14-17.57.51:386][849]Cmd: ACTOR DELETE
+[2019.11.14-17.57.51:387][849]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.57.51:411][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.11.14-17.57.51:412][849]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.11.14-17.57.51:991][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.14-17.57.52:042][885]Cmd: DELETE
+[2019.11.14-17.57.52:042][885]Cmd: ACTOR DELETE
+[2019.11.14-17.57.52:043][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.57.52:068][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.11.14-17.57.52:068][885]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.11.14-17.57.52:520][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Flower_1)
+[2019.11.14-17.57.53:393][963]Cmd: TRANSACTION UNDO
+[2019.11.14-17.57.53:393][963]LogEditorTransaction: Undo Clicking on Actors
+[2019.11.14-17.57.53:812][988]Cmd: TRANSACTION UNDO
+[2019.11.14-17.57.53:812][988]LogEditorTransaction: Undo Delete Actors
+[2019.11.14-17.57.54:256][ 13]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.57.54:930][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Flower_1)
+[2019.11.14-17.57.55:576][ 89]Cmd: DELETE
+[2019.11.14-17.57.55:576][ 89]Cmd: ACTOR DELETE
+[2019.11.14-17.57.55:577][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.57.55:599][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.11.14-17.57.55:600][ 89]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.11.14-17.57.56:429][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Flower_2)
+[2019.11.14-17.57.56:521][143]Cmd: DELETE
+[2019.11.14-17.57.56:521][143]Cmd: ACTOR DELETE
+[2019.11.14-17.57.56:522][143]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.57.56:546][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.11.14-17.57.56:546][143]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.11.14-17.57.57:077][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_7)
+[2019.11.14-17.57.57:154][178]Cmd: DELETE
+[2019.11.14-17.57.57:155][178]Cmd: ACTOR DELETE
+[2019.11.14-17.57.57:156][178]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.57.57:179][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.11.14-17.57.57:180][178]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.11.14-17.57.57:661][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hill_8)
+[2019.11.14-17.57.57:772][212]Cmd: DELETE
+[2019.11.14-17.57.57:772][212]Cmd: ACTOR DELETE
+[2019.11.14-17.57.57:774][212]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.57.57:798][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.11.14-17.57.57:798][212]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.11.14-17.57.58:131][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hill_1)
+[2019.11.14-17.57.58:257][238]Cmd: DELETE
+[2019.11.14-17.57.58:257][238]Cmd: ACTOR DELETE
+[2019.11.14-17.57.58:258][238]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.57.58:282][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.11.14-17.57.58:282][238]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.11.14-17.58.00:940][398]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_2)
+[2019.11.14-17.58.01:021][401]Cmd: DELETE
+[2019.11.14-17.58.01:022][401]Cmd: ACTOR DELETE
+[2019.11.14-17.58.01:023][401]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.58.01:048][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.11.14-17.58.01:049][401]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.11.14-17.58.01:572][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Flower_5)
+[2019.11.14-17.58.01:626][434]Cmd: DELETE
+[2019.11.14-17.58.01:626][434]Cmd: ACTOR DELETE
+[2019.11.14-17.58.01:627][434]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.58.01:652][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.11.14-17.58.01:652][434]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.11.14-17.58.02:090][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Flower_4)
+[2019.11.14-17.58.02:112][460]Cmd: DELETE
+[2019.11.14-17.58.02:112][460]Cmd: ACTOR DELETE
+[2019.11.14-17.58.02:113][460]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.58.02:139][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.11.14-17.58.02:139][460]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.11.14-17.58.03:189][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Flower_3)
+[2019.11.14-17.58.03:254][525]Cmd: DELETE
+[2019.11.14-17.58.03:255][525]Cmd: ACTOR DELETE
+[2019.11.14-17.58.03:256][525]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.58.03:282][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.11.14-17.58.03:282][525]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.11.14-17.58.03:697][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_5)
+[2019.11.14-17.58.03:743][551]Cmd: DELETE
+[2019.11.14-17.58.03:743][551]Cmd: ACTOR DELETE
+[2019.11.14-17.58.03:744][551]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.58.03:771][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.11.14-17.58.03:771][551]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.11.14-17.58.04:160][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Flower_6)
+[2019.11.14-17.58.04:183][574]Cmd: DELETE
+[2019.11.14-17.58.04:183][574]Cmd: ACTOR DELETE
+[2019.11.14-17.58.04:185][574]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.58.04:208][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.11.14-17.58.04:209][574]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.11.14-17.58.05:358][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Flower_7)
+[2019.11.14-17.58.05:472][648]Cmd: DELETE
+[2019.11.14-17.58.05:472][648]Cmd: ACTOR DELETE
+[2019.11.14-17.58.05:473][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.58.05:499][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.11.14-17.58.05:500][648]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.11.14-17.58.06:231][692]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_2)
+[2019.11.14-17.58.06:294][694]Cmd: DELETE
+[2019.11.14-17.58.06:294][694]Cmd: ACTOR DELETE
+[2019.11.14-17.58.06:295][694]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.58.06:320][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.11.14-17.58.06:321][694]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.11.14-17.58.06:744][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_1)
+[2019.11.14-17.58.06:806][722]Cmd: DELETE
+[2019.11.14-17.58.06:806][722]Cmd: ACTOR DELETE
+[2019.11.14-17.58.06:808][722]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.58.06:835][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.11.14-17.58.06:835][722]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.11.14-17.58.07:584][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_1)
+[2019.11.14-17.58.07:630][768]Cmd: DELETE
+[2019.11.14-17.58.07:630][768]Cmd: ACTOR DELETE
+[2019.11.14-17.58.07:631][768]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.58.07:654][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.11.14-17.58.07:655][768]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.11.14-17.58.08:058][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_5)
+[2019.11.14-17.58.08:103][793]Cmd: DELETE
+[2019.11.14-17.58.08:103][793]Cmd: ACTOR DELETE
+[2019.11.14-17.58.08:104][793]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.58.08:130][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.11.14-17.58.08:131][793]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.11.14-17.58.08:702][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_3)
+[2019.11.14-17.58.08:780][830]Cmd: DELETE
+[2019.11.14-17.58.08:780][830]Cmd: ACTOR DELETE
+[2019.11.14-17.58.08:781][830]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.58.08:806][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.11.14-17.58.08:806][830]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.11.14-17.58.10:154][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_4)
+[2019.11.14-17.58.10:334][920]Cmd: DELETE
+[2019.11.14-17.58.10:334][920]Cmd: ACTOR DELETE
+[2019.11.14-17.58.10:335][920]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-17.58.10:360][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.11.14-17.58.10:361][920]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.11.14-17.58.11:892][ 12]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2019.11.14-17.58.12:107][ 21]Cmd: DELETE
+[2019.11.14-17.58.12:107][ 21]Cmd: ACTOR DELETE
+[2019.11.14-17.58.12:108][ 21]LogEditorActor: Deleted Actor: SpotLight
+[2019.11.14-17.58.12:134][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.11.14-17.58.12:134][ 21]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.11.14-17.58.13:948][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_4)
+[2019.11.14-17.58.29:196][ 38]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.58.29:803][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_5)
+[2019.11.14-17.58.33:411][287]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.58.35:785][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_5)
+[2019.11.14-17.58.39:406][643]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.58.40:546][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_5)
+[2019.11.14-17.58.41:274][752]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-17.59.15:132][781]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.14-17.59.15:173][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.11.14-17.59.15:174][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Visual_Test" FILE="../../../../../Evolvica/Saved/Autosaves/Game/Maps/Visual_Test_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.14-17.59.15:297][781]LogSavePackage: Moving '../../../../../Evolvica/Saved/Visual_Test_Auto31EE01C0C4BC5320E4837F2A3F16BE36B.tmp' to '../../../../../Evolvica/Saved/Autosaves/Game/Maps/Visual_Test_Auto3.umap'
+[2019.11.14-17.59.15:538][781]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Visual_Test' took 0.389
+[2019.11.14-17.59.15:538][781]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.389
+[2019.11.14-18.45.12:686][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_4)
+[2019.11.14-18.45.23:969][ 85]Cmd: TRANSACTION UNDO
+[2019.11.14-18.45.23:969][ 85]LogEditorTransaction: Undo Move Actors
+[2019.11.14-18.45.30:161][241]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.45.49:116][758]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.14-18.45.51:936][833]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.14-18.45.56:654][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.46.09:959][287]LogActorFactory: Actor Factory created Stone_1
+[2019.11.14-18.46.11:807][342]LogActorFactory: Actor Factory created Stone_1
+[2019.11.14-18.46.13:418][391]Cmd: DELETE
+[2019.11.14-18.46.13:418][391]Cmd: ACTOR DELETE
+[2019.11.14-18.46.13:424][391]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-18.46.13:468][391]LogUObjectHash: Compacting FUObjectHashTables data took   7.62ms
+[2019.11.14-18.46.13:469][391]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2019.11.14-18.46.15:654][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_4)
+[2019.11.14-18.46.19:840][582]Cmd: TRANSACTION UNDO
+[2019.11.14-18.46.19:841][582]LogEditorTransaction: Undo Move Actors
+[2019.11.14-18.46.22:367][634]Cmd: TRANSACTION UNDO
+[2019.11.14-18.46.22:367][634]LogEditorTransaction: Undo Move Actors
+[2019.11.14-18.46.32:266][897]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.46.34:764][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_7)
+[2019.11.14-18.46.40:627][145]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.46.41:596][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.46.45:440][254]LogActorFactory: Actor Factory created Tree_2
+[2019.11.14-18.46.47:421][313]LogActorFactory: Actor Factory created Tree_2
+[2019.11.14-18.46.54:889][535]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.46.55:945][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.46.56:051][561]LogActorFactory: Actor Factory created Tree_1
+[2019.11.14-18.46.57:599][607]LogActorFactory: Actor Factory created Tree_1
+[2019.11.14-18.47.16:179][161]Cmd: DELETE
+[2019.11.14-18.47.16:180][161]Cmd: ACTOR DELETE
+[2019.11.14-18.47.16:181][161]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-18.47.16:214][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.11.14-18.47.16:215][161]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2019.11.14-18.47.16:850][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_2)
+[2019.11.14-18.47.20:188][277]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.47.20:729][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_2)
+[2019.11.14-18.47.23:817][384]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.47.26:621][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.47.30:754][563]LogActorFactory: Actor Factory created Bush_2
+[2019.11.14-18.47.31:834][595]LogActorFactory: Actor Factory created Bush_2
+[2019.11.14-18.47.46:048][ 14]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.47.48:071][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.47.48:177][ 69]LogActorFactory: Actor Factory created Bush_3
+[2019.11.14-18.47.50:996][153]LogActorFactory: Actor Factory created Bush_3
+[2019.11.14-18.48.03:758][532]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.48.06:541][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.48.06:746][610]LogActorFactory: Actor Factory created Bush_1
+[2019.11.14-18.48.08:025][648]LogActorFactory: Actor Factory created Bush_1
+[2019.11.14-18.48.12:158][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.48.12:309][761]LogActorFactory: Actor Factory created Bush_2
+[2019.11.14-18.48.12:889][778]LogActorFactory: Actor Factory created Bush_2
+[2019.11.14-18.48.17:797][925]Cmd: DELETE
+[2019.11.14-18.48.17:797][925]Cmd: ACTOR DELETE
+[2019.11.14-18.48.17:799][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-18.48.17:832][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.11.14-18.48.17:832][925]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2019.11.14-18.48.18:403][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_1)
+[2019.11.14-18.48.26:772][190]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.48.28:367][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_1)
+[2019.11.14-18.48.30:758][307]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.48.37:624][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.48.37:778][482]LogActorFactory: Actor Factory created Bush_3
+[2019.11.14-18.48.39:524][534]LogActorFactory: Actor Factory created Bush_3
+[2019.11.14-18.48.51:291][883]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.48.52:790][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_5)
+[2019.11.14-18.48.53:557][949]Cmd: DELETE
+[2019.11.14-18.48.53:557][949]Cmd: ACTOR DELETE
+[2019.11.14-18.48.53:559][949]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-18.48.53:595][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.11.14-18.48.53:596][949]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2019.11.14-18.48.55:954][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.48.59:766][112]LogActorFactory: Actor Factory created Stone_3
+[2019.11.14-18.49.01:850][174]LogActorFactory: Actor Factory created Stone_3
+[2019.11.14-18.49.02:237][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.49.02:559][189]LogActorFactory: Actor Factory created Stone_5
+[2019.11.14-18.49.03:739][224]LogActorFactory: Actor Factory created Stone_5
+[2019.11.14-18.49.04:048][234]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.14-18.49.05:449][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_3)
+[2019.11.14-18.49.06:351][301]Cmd: DELETE
+[2019.11.14-18.49.06:351][301]Cmd: ACTOR DELETE
+[2019.11.14-18.49.06:353][301]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-18.49.06:385][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.11.14-18.49.06:385][301]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2019.11.14-18.49.06:789][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_5)
+[2019.11.14-18.49.06:932][317]Cmd: DELETE
+[2019.11.14-18.49.06:932][317]Cmd: ACTOR DELETE
+[2019.11.14-18.49.06:933][317]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-18.49.06:960][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.11.14-18.49.06:960][317]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.11.14-18.49.07:821][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.49.10:869][414]LogActorFactory: Actor Factory created Flower_1
+[2019.11.14-18.49.12:014][448]LogActorFactory: Actor Factory created Flower_1
+[2019.11.14-18.49.20:960][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.49.21:109][711]LogActorFactory: Actor Factory created Flower_2
+[2019.11.14-18.49.25:455][841]LogActorFactory: Actor Factory created Flower_2
+[2019.11.14-18.49.25:992][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_2)
+[2019.11.14-18.49.26:796][881]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.49.27:359][897]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.49.28:731][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.49.28:933][936]LogActorFactory: Actor Factory created Flower_2
+[2019.11.14-18.49.30:778][991]LogActorFactory: Actor Factory created Flower_2
+[2019.11.14-18.49.31:522][ 14]Cmd: DELETE
+[2019.11.14-18.49.31:522][ 14]Cmd: ACTOR DELETE
+[2019.11.14-18.49.31:523][ 14]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-18.49.31:556][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.11.14-18.49.31:557][ 14]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2019.11.14-18.49.32:286][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.49.32:438][ 32]LogActorFactory: Actor Factory created Flower_1
+[2019.11.14-18.49.33:549][ 65]LogActorFactory: Actor Factory created Flower_1
+[2019.11.14-18.49.41:564][302]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.49.45:340][410]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.49.47:753][461]LogActorFactory: Actor Factory created Stone_1
+[2019.11.14-18.49.48:833][493]LogActorFactory: Actor Factory created Stone_1
+[2019.11.14-18.49.55:101][679]Cmd: TRANSACTION UNDO
+[2019.11.14-18.49.55:102][679]LogEditorTransaction: Undo Move Actors
+[2019.11.14-18.50.00:716][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.50.01:170][816]LogActorFactory: Actor Factory created Stone_3
+[2019.11.14-18.50.04:618][919]LogActorFactory: Actor Factory created Stone_3
+[2019.11.14-18.50.10:061][ 81]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.50.11:325][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_3)
+[2019.11.14-18.50.12:716][158]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.50.13:651][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_3)
+[2019.11.14-18.50.14:349][205]Cmd: DELETE
+[2019.11.14-18.50.14:349][205]Cmd: ACTOR DELETE
+[2019.11.14-18.50.14:351][205]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-18.50.14:384][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.11.14-18.50.14:384][205]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2019.11.14-18.50.16:142][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.50.16:345][258]LogActorFactory: Actor Factory created Stone_5
+[2019.11.14-18.50.17:756][300]LogActorFactory: Actor Factory created Stone_5
+[2019.11.14-18.50.18:419][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.50.18:577][316]LogActorFactory: Actor Factory created Stone_4
+[2019.11.14-18.50.19:696][349]LogActorFactory: Actor Factory created Stone_4
+[2019.11.14-18.50.20:140][363]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.50.21:871][414]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_5)
+[2019.11.14-18.50.22:804][441]Cmd: DELETE
+[2019.11.14-18.50.22:804][441]Cmd: ACTOR DELETE
+[2019.11.14-18.50.22:806][441]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-18.50.22:838][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.11.14-18.50.22:838][441]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.11.14-18.50.23:274][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stone_4)
+[2019.11.14-18.50.23:354][455]Cmd: DELETE
+[2019.11.14-18.50.23:354][455]Cmd: ACTOR DELETE
+[2019.11.14-18.50.23:355][455]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-18.50.23:383][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.11.14-18.50.23:383][455]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.11.14-18.50.28:009][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_2)
+[2019.11.14-18.50.29:623][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.50.31:308][657]LogActorFactory: Actor Factory created Tree_1
+[2019.11.14-18.50.32:252][685]LogActorFactory: Actor Factory created Tree_1
+[2019.11.14-18.50.57:473][242]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.14-18.50.57:552][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.11.14-18.50.57:553][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Visual_Test" FILE="../../../../../Evolvica/Saved/Autosaves/Game/Maps/Visual_Test_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.14-18.50.57:828][242]LogSavePackage: Moving '../../../../../Evolvica/Saved/Visual_Test_Auto40B0CF0BF40FEBEB8C659AA980571DC15.tmp' to '../../../../../Evolvica/Saved/Autosaves/Game/Maps/Visual_Test_Auto4.umap'
+[2019.11.14-18.50.57:872][242]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Visual_Test' took 0.350
+[2019.11.14-18.50.57:872][242]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.350
+[2019.11.14-18.51.39:569][442]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.51.43:895][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.51.44:050][565]LogActorFactory: Actor Factory created Tree_2
+[2019.11.14-18.51.45:695][614]LogActorFactory: Actor Factory created Tree_2
+[2019.11.14-18.51.54:894][888]Cmd: DELETE
+[2019.11.14-18.51.54:895][888]Cmd: ACTOR DELETE
+[2019.11.14-18.51.54:897][888]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-18.51.54:929][888]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.11.14-18.51.54:929][888]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2019.11.14-18.51.59:699][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.52.02:220][ 57]LogActorFactory: Actor Factory created Bush_1
+[2019.11.14-18.52.06:266][178]LogActorFactory: Actor Factory created Bush_1
+[2019.11.14-18.52.10:942][317]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.52.11:608][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_2)
+[2019.11.14-18.52.12:677][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_5)
+[2019.11.14-18.52.13:181][381]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.52.18:414][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_3)
+[2019.11.14-18.52.19:148][558]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_7)
+[2019.11.14-18.52.20:156][587]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.52.25:688][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_5)
+[2019.11.14-18.52.26:959][788]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.52.28:852][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.52.31:689][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_2)
+[2019.11.14-18.52.32:679][923]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.52.37:139][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.52.52:911][518]Cmd: SELECT NONE
+[2019.11.14-18.52.54:149][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_7)
+[2019.11.14-18.52.54:689][570]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.53.10:565][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_7)
+[2019.11.14-18.53.11:363][ 62]Cmd: DELETE
+[2019.11.14-18.53.11:364][ 62]Cmd: ACTOR DELETE
+[2019.11.14-18.53.11:365][ 62]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-18.53.11:398][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.11.14-18.53.11:399][ 62]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2019.11.14-18.53.17:787][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_6)
+[2019.11.14-18.53.25:510][482]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.53.26:208][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_3)
+[2019.11.14-18.53.27:867][550]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.53.28:265][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_3)
+[2019.11.14-18.53.30:623][630]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.53.34:055][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.14-18.53.35:089][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hill_6)
+[2019.11.14-18.53.36:012][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.53.37:147][803]LogActorFactory: Actor Factory created Hill_1
+[2019.11.14-18.53.38:858][854]LogActorFactory: Actor Factory created Hill_1
+[2019.11.14-18.53.48:262][134]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.53.56:801][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hill_3)
+[2019.11.14-18.54.03:628][582]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.54.07:241][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_5)
+[2019.11.14-18.54.08:842][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_2)
+[2019.11.14-18.54.10:209][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_5)
+[2019.11.14-18.54.11:569][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.54.15:915][887]LogActorFactory: Actor Factory created Bush_3
+[2019.11.14-18.54.17:226][926]LogActorFactory: Actor Factory created Bush_3
+[2019.11.14-18.54.23:931][125]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.54.25:031][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_6)
+[2019.11.14-18.54.26:393][196]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bush_6)
+[2019.11.14-18.54.26:950][212]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.54.37:622][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_2)
+[2019.11.14-18.54.46:499][792]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.54.48:499][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_7)
+[2019.11.14-18.54.54:024][ 13]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.55.03:045][282]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 4
+[2019.11.14-18.55.16:003][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_5)
+[2019.11.14-18.55.17:236][706]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.55.25:747][788]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.14-18.55.25:747][788]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.14-18.56.32:107][398]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hill_1)
+[2019.11.14-18.56.33:418][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.56.34:823][559]LogActorFactory: Actor Factory created Hill_1
+[2019.11.14-18.56.35:543][602]LogActorFactory: Actor Factory created Hill_1
+[2019.11.14-18.56.36:457][656]Cmd: DELETE
+[2019.11.14-18.56.36:457][656]Cmd: ACTOR DELETE
+[2019.11.14-18.56.36:459][656]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-18.56.36:485][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2019.11.14-18.56.36:485][656]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.11.14-18.56.45:812][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.56.46:033][229]LogActorFactory: Actor Factory created Hill_3
+[2019.11.14-18.56.46:850][278]LogActorFactory: Actor Factory created Hill_3
+[2019.11.14-18.56.50:942][521]Cmd: TRANSACTION UNDO
+[2019.11.14-18.56.50:942][521]LogEditorTransaction: Undo Rotate Actors
+[2019.11.14-18.56.55:489][792]Cmd: TRANSACTION UNDO
+[2019.11.14-18.56.55:489][792]LogEditorTransaction: Undo Move Actors
+[2019.11.14-18.56.58:171][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.56.58:324][961]LogActorFactory: Actor Factory created Hill_1
+[2019.11.14-18.56.58:994][  1]LogActorFactory: Actor Factory created Hill_1
+[2019.11.14-18.57.12:730][822]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.57.13:231][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hill_10)
+[2019.11.14-18.57.15:130][963]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.57.16:865][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.57.17:018][ 75]LogActorFactory: Actor Factory created Hill_2
+[2019.11.14-18.57.19:255][209]LogActorFactory: Actor Factory created Hill_2
+[2019.11.14-18.57.24:122][499]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.57.24:689][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_6)
+[2019.11.14-18.57.43:844][674]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.57.45:451][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hill_10)
+[2019.11.14-18.57.46:399][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.57.46:553][833]LogActorFactory: Actor Factory created Hill_1
+[2019.11.14-18.57.47:670][900]LogActorFactory: Actor Factory created Hill_1
+[2019.11.14-18.57.56:208][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hill_12)
+[2019.11.14-18.57.57:065][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.57.57:183][468]LogActorFactory: Actor Factory created Hill_3
+[2019.11.14-18.57.57:821][506]LogActorFactory: Actor Factory created Hill_3
+[2019.11.14-18.58.07:392][ 78]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.58.08:713][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.58.08:849][164]LogActorFactory: Actor Factory created Hill_2
+[2019.11.14-18.58.09:603][209]LogActorFactory: Actor Factory created Hill_2
+[2019.11.14-18.58.10:205][244]Cmd: DELETE
+[2019.11.14-18.58.10:206][244]Cmd: ACTOR DELETE
+[2019.11.14-18.58.10:207][244]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.14-18.58.10:234][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.11.14-18.58.10:234][244]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.11.14-18.58.13:062][414]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hill_1)
+[2019.11.14-18.58.13:740][453]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.58.15:549][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.58.58:940][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_8)
+[2019.11.14-18.58.59:458][848]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.59.00:151][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hill_12)
+[2019.11.14-18.59.00:967][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hill_13)
+[2019.11.14-18.59.07:301][576]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.59.13:629][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_2)
+[2019.11.14-18.59.33:703][700]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.59.34:564][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_9)
+[2019.11.14-18.59.36:022][969]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.59.38:425][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_9)
+[2019.11.14-18.59.43:476][847]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.11.14-18.59.45:478][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.14-18.59.45:609][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Visual_Test" FILE="../../../../../Evolvica/Content/Maps/Visual_Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.14-18.59.45:635][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.11.14-18.59.45:761][ 95]LogSavePackage: Moving '../../../../../Evolvica/Saved/Visual_TestB111125B46E22E384760FA964AD0827A.tmp' to '../../../../../Evolvica/Content/Maps/Visual_Test.umap'
+[2019.11.14-18.59.45:836][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Visual_Test_BuiltData" FILE="../../../../../Evolvica/Content/Maps/Visual_Test_BuiltData.uasset" SILENT=true
+[2019.11.14-18.59.45:895][ 95]LogSavePackage: Moving '../../../../../Evolvica/Saved/Visual_Test_BuiltData5B2C269A426139274B72E583E804CAD6.tmp' to '../../../../../Evolvica/Content/Maps/Visual_Test_BuiltData.uasset'
+[2019.11.14-19.18.24:541][681]LogHttp: Warning: 000002D719D39D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD739EFFE-476D-13D2-8AF5-F7B14E8F76B2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=309fdab74b5b4115b1b79a813986293a%7C51a48e964c0048258d2a64c26246ca7a%7C806db8ce-e4c7-461c-9904-7a339bbd1c79&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: -1, actual payload size: 0
+[2019.11.14-19.18.24:541][681]LogHttp: Warning: 000002D719D39D00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2019.11.14-19.18.24:541][681]LogHttp: Warning: 000002D719D39D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2d7367ebf70 [can pipeline])
+[2019.11.14-19.18.24:541][681]LogHttp: Warning: 000002D719D39D00: libcurl info message cache 1 (Re-using existing connection! (#50) with host datarouter.ol.epicgames.com)
+[2019.11.14-19.18.24:541][681]LogHttp: Warning: 000002D719D39D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.173.159.232) port 443 (#50))
+[2019.11.14-19.18.24:541][681]LogHttp: Warning: 000002D719D39D00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2019.11.14-19.18.24:541][681]LogHttp: Warning: 000002D719D39D00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.11.14-19.18.24:541][681]LogHttp: Warning: 000002D719D39D00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.11.14-19.18.24:541][681]LogHttp: Warning: 000002D719D39D00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2019.11.14-19.18.24:541][681]LogHttp: Warning: 000002D719D39D00: libcurl info message cache 7 (Closing connection 50)
+[2019.11.14-19.18.24:557][682]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD739EFFE-476D-13D2-8AF5-F7B14E8F76B2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=309fdab74b5b4115b1b79a813986293a%7C51a48e964c0048258d2a64c26246ca7a%7C806db8ce-e4c7-461c-9904-7a339bbd1c79&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.14-19.25.31:194][581]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.11.14-19.25.31:301][581]LogSlate: Window 'Evolvica_ThP - Unreal Editor' being destroyed
+[2019.11.14-19.25.31:305][581]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.14-19.25.31:501][582]Cmd: QUIT_EDITOR
+[2019.11.14-19.25.31:587][582]LogExit: Preparing to exit.
+[2019.11.14-19.25.31:897][582]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.11.14-19.25.31:897][582]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.14-19.25.31:897][582]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.14-19.25.31:897][582]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.11.14-19.25.31:897][582]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.11.14-19.25.31:956][582]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.11.14-19.25.31:956][582]LogExit: Editor shut down
+[2019.11.14-19.25.31:959][582]LogExit: Transaction tracking system shut down
+[2019.11.14-19.25.31:972][582]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.11.14-19.25.32:393][582]LogExit: Object subsystem successfully closed.
+[2019.11.14-19.25.32:430][582]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.14-19.25.32:447][582]LogModuleManager: Shutting down and abandoning module StatsViewer (670)
+[2019.11.14-19.25.32:447][582]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2019.11.14-19.25.32:447][582]LogModuleManager: Shutting down and abandoning module WorldBrowser (666)
+[2019.11.14-19.25.32:447][582]LogModuleManager: Shutting down and abandoning module SceneOutliner (664)
+[2019.11.14-19.25.32:447][582]LogModuleManager: Shutting down and abandoning module AddContentDialog (662)
+[2019.11.14-19.25.32:450][582]LogModuleManager: Shutting down and abandoning module WidgetCarousel (661)
+[2019.11.14-19.25.32:450][582]LogModuleManager: Shutting down and abandoning module EditorWidgets (658)
+[2019.11.14-19.25.32:451][582]LogModuleManager: Shutting down and abandoning module CollectionManager (656)
+[2019.11.14-19.25.32:451][582]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2019.11.14-19.25.32:451][582]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2019.11.14-19.25.32:451][582]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2019.11.14-19.25.32:451][582]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2019.11.14-19.25.32:451][582]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2019.11.14-19.25.32:451][582]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2019.11.14-19.25.32:451][582]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2019.11.14-19.25.32:451][582]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2019.11.14-19.25.32:451][582]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2019.11.14-19.25.32:451][582]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2019.11.14-19.25.32:451][582]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2019.11.14-19.25.32:451][582]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2019.11.14-19.25.32:451][582]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2019.11.14-19.25.32:451][582]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2019.11.14-19.25.32:451][582]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2019.11.14-19.25.32:451][582]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2019.11.14-19.25.32:452][582]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2019.11.14-19.25.32:452][582]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2019.11.14-19.25.32:452][582]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2019.11.14-19.25.32:452][582]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2019.11.14-19.25.32:452][582]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2019.11.14-19.25.32:452][582]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2019.11.14-19.25.32:452][582]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2019.11.14-19.25.32:452][582]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2019.11.14-19.25.32:452][582]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2019.11.14-19.25.32:452][582]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2019.11.14-19.25.32:453][582]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2019.11.14-19.25.32:453][582]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2019.11.14-19.25.32:453][582]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2019.11.14-19.25.32:453][582]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2019.11.14-19.25.32:453][582]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2019.11.14-19.25.32:453][582]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2019.11.14-19.25.32:453][582]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2019.11.14-19.25.32:453][582]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2019.11.14-19.25.32:453][582]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2019.11.14-19.25.32:453][582]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2019.11.14-19.25.32:453][582]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2019.11.14-19.25.32:453][582]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2019.11.14-19.25.32:453][582]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2019.11.14-19.25.32:453][582]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2019.11.14-19.25.32:453][582]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2019.11.14-19.25.32:453][582]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2019.11.14-19.25.32:453][582]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2019.11.14-19.25.32:453][582]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2019.11.14-19.25.32:453][582]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2019.11.14-19.25.32:453][582]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2019.11.14-19.25.32:453][582]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2019.11.14-19.25.32:453][582]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2019.11.14-19.25.32:453][582]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2019.11.14-19.25.32:453][582]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2019.11.14-19.25.32:453][582]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2019.11.14-19.25.32:453][582]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2019.11.14-19.25.32:454][582]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2019.11.14-19.25.32:454][582]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2019.11.14-19.25.34:266][582]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2019.11.14-19.25.34:267][582]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2019.11.14-19.25.34:267][582]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2019.11.14-19.25.34:267][582]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2019.11.14-19.25.34:267][582]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2019.11.14-19.25.34:267][582]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2019.11.14-19.25.34:267][582]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2019.11.14-19.25.34:267][582]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2019.11.14-19.25.34:267][582]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2019.11.14-19.25.34:267][582]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2019.11.14-19.25.34:267][582]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2019.11.14-19.25.34:267][582]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2019.11.14-19.25.34:267][582]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2019.11.14-19.25.34:267][582]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2019.11.14-19.25.34:267][582]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2019.11.14-19.25.34:267][582]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2019.11.14-19.25.34:267][582]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2019.11.14-19.25.34:268][582]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2019.11.14-19.25.34:268][582]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2019.11.14-19.25.34:268][582]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2019.11.14-19.25.34:268][582]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2019.11.14-19.25.34:268][582]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2019.11.14-19.25.34:268][582]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2019.11.14-19.25.34:323][582]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2019.11.14-19.25.34:323][582]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2019.11.14-19.25.34:323][582]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2019.11.14-19.25.34:323][582]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2019.11.14-19.25.34:323][582]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2019.11.14-19.25.34:323][582]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2019.11.14-19.25.34:323][582]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2019.11.14-19.25.34:323][582]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2019.11.14-19.25.34:323][582]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2019.11.14-19.25.34:323][582]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2019.11.14-19.25.34:323][582]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2019.11.14-19.25.34:324][582]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2019.11.14-19.25.34:324][582]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2019.11.14-19.25.34:324][582]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2019.11.14-19.25.34:324][582]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2019.11.14-19.25.34:324][582]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2019.11.14-19.25.34:324][582]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.11.14-19.25.34:324][582]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.11.14-19.25.34:324][582]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.11.14-19.25.34:325][582]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.11.14-19.25.34:325][582]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.11.14-19.25.34:325][582]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.11.14-19.25.34:325][582]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.11.14-19.25.34:325][582]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.11.14-19.25.34:325][582]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.11.14-19.25.34:325][582]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.11.14-19.25.34:325][582]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.11.14-19.25.34:325][582]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.11.14-19.25.34:325][582]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.11.14-19.25.34:325][582]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.11.14-19.25.34:325][582]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.11.14-19.25.34:325][582]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.11.14-19.25.34:325][582]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.11.14-19.25.34:325][582]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.11.14-19.25.34:325][582]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.11.14-19.25.34:325][582]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2019.11.14-19.25.34:326][582]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2019.11.14-19.25.34:331][582]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2019.11.14-19.25.34:449][582]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2019.11.14-19.25.34:450][582]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2019.11.14-19.25.34:450][582]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2019.11.14-19.25.34:450][582]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2019.11.14-19.25.34:450][582]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2019.11.14-19.25.34:450][582]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2019.11.14-19.25.34:450][582]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2019.11.14-19.25.34:450][582]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.11.14-19.25.34:450][582]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.11.14-19.25.34:450][582]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.11.14-19.25.34:450][582]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.11.14-19.25.34:450][582]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.11.14-19.25.34:450][582]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.11.14-19.25.34:450][582]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.11.14-19.25.34:450][582]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.11.14-19.25.34:450][582]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.11.14-19.25.34:450][582]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2019.11.14-19.25.34:450][582]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2019.11.14-19.25.34:450][582]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2019.11.14-19.25.34:450][582]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2019.11.14-19.25.34:450][582]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2019.11.14-19.25.34:450][582]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2019.11.14-19.25.34:451][582]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2019.11.14-19.25.34:451][582]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2019.11.14-19.25.34:451][582]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.11.14-19.25.34:451][582]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.11.14-19.25.34:451][582]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.11.14-19.25.34:451][582]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.11.14-19.25.34:451][582]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.11.14-19.25.34:451][582]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.11.14-19.25.34:552][582]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.11.14-19.25.34:653][582]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.11.14-19.25.34:653][582]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.11.14-19.25.34:653][582]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.11.14-19.25.34:653][582]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.11.14-19.25.34:653][582]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.11.14-19.25.34:653][582]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.11.14-19.25.34:653][582]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.11.14-19.25.34:654][582]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.11.14-19.25.34:654][582]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.11.14-19.25.34:654][582]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.11.14-19.25.34:654][582]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.11.14-19.25.34:654][582]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.11.14-19.25.34:654][582]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.11.14-19.25.34:654][582]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.11.14-19.25.34:655][582]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.11.14-19.25.34:655][582]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.11.14-19.25.34:656][582]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.11.14-19.25.34:656][582]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.11.14-19.25.34:656][582]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.11.14-19.25.34:660][582]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.11.14-19.25.34:660][582]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.11.14-19.25.34:660][582]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.11.14-19.25.34:660][582]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.11.14-19.25.34:660][582]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.11.14-19.25.34:663][582]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.11.14-19.25.34:663][582]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.11.14-19.25.34:663][582]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.11.14-19.25.34:663][582]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.11.14-19.25.34:663][582]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.11.14-19.25.34:663][582]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.11.14-19.25.34:663][582]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.11.14-19.25.34:663][582]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.11.14-19.25.34:663][582]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.11.14-19.25.34:663][582]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.11.14-19.25.34:663][582]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.11.14-19.25.34:663][582]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.11.14-19.25.34:663][582]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.11.14-19.25.34:663][582]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.11.14-19.25.34:663][582]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.11.14-19.25.34:663][582]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.11.14-19.25.34:664][582]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.11.14-19.25.34:664][582]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.11.14-19.25.34:664][582]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.11.14-19.25.34:664][582]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.11.14-19.25.34:664][582]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.11.14-19.25.34:664][582]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.11.14-19.25.34:664][582]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.11.14-19.25.34:667][582]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.11.14-19.25.34:667][582]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.11.14-19.25.34:667][582]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.11.14-19.25.34:667][582]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.11.14-19.25.34:667][582]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.11.14-19.25.34:667][582]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.11.14-19.25.34:667][582]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.11.14-19.25.34:667][582]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.11.14-19.25.34:667][582]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.11.14-19.25.34:667][582]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.11.14-19.25.34:667][582]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.11.14-19.25.34:667][582]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.11.14-19.25.34:667][582]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.11.14-19.25.34:667][582]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.11.14-19.25.34:667][582]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.11.14-19.25.34:667][582]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.11.14-19.25.34:667][582]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.11.14-19.25.34:667][582]LogDerivedDataCache: Shutdown
+[2019.11.14-19.25.34:668][582]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.11.14-19.25.34:668][582]LogXGEController: Cleaning working directory: C:/Users/HP/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.14-19.25.34:668][582]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.11.14-19.25.34:668][582]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.11.14-19.25.34:668][582]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.11.14-19.25.34:669][582]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.11.14-19.25.34:669][582]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.11.14-19.25.34:669][582]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.11.14-19.25.34:669][582]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.11.14-19.25.34:669][582]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.11.14-19.25.34:669][582]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.11.14-19.25.34:669][582]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.11.14-19.25.34:669][582]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.11.14-19.25.34:669][582]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.11.14-19.25.34:669][582]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.11.14-19.25.34:669][582]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.11.14-19.25.34:669][582]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.11.14-19.25.34:669][582]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.11.14-19.25.34:669][582]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.11.14-19.25.34:686][582]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.11.14-19.25.34:686][582]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.11.14-19.25.34:686][582]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.11.14-19.25.34:686][582]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.11.14-19.25.34:686][582]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.11.14-19.25.34:692][582]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.11.14-19.25.34:692][582]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.11.14-19.25.34:696][582]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.11.14-19.25.34:697][582]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.11.14-19.25.34:741][582]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.11.14-19.25.34:741][582]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.11.14-19.25.34:741][582]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.11.14-19.25.34:741][582]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.11.14-19.25.34:741][582]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.11.14-19.25.34:742][582]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.11.14-19.25.34:742][582]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.11.14-19.25.34:742][582]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.11.14-19.25.34:742][582]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.11.14-19.25.34:742][582]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.11.14-19.25.34:742][582]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.11.14-19.25.34:742][582]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.11.14-19.25.34:743][582]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.11.14-19.25.34:743][582]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.11.14-19.25.34:743][582]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.11.14-19.25.34:743][582]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.11.14-19.25.34:743][582]LogHMD: Freeing OpenVRDLLHandle.
+[2019.11.14-19.25.34:743][582]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.11.14-19.25.34:743][582]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.11.14-19.25.34:743][582]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.11.14-19.25.34:743][582]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.11.14-19.25.34:743][582]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.11.14-19.25.34:744][582]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.11.14-19.25.34:744][582]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.11.14-19.25.34:766][582]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.11.14-19.25.34:766][582]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.11.14-19.25.34:766][582]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD739EFFE-476D-13D2-8AF5-F7B14E8F76B2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=309fdab74b5b4115b1b79a813986293a%7C51a48e964c0048258d2a64c26246ca7a%7C806db8ce-e4c7-461c-9904-7a339bbd1c79&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.11.14-19.25.34:783][582]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.11.14-19.25.34:786][582]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.11.14-19.25.34:788][582]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.11.14-19.25.34:789][582]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.11.14-19.25.34:789][582]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.11.14-19.25.34:790][582]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.11.14-19.25.34:790][582]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.11.14-19.25.34:790][582]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.11.14-19.25.34:790][582]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.11.14-19.25.34:790][582]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.11.14-19.25.34:790][582]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.11.14-19.25.34:791][582]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.11.14-19.25.34:791][582]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.11.14-19.25.34:791][582]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.11.14-19.25.34:791][582]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.11.14-19.25.34:793][582]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.11.14-19.25.34:793][582]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.11.14-19.25.34:793][582]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.11.14-19.25.34:793][582]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.11.14-19.25.34:794][582]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.11.14-19.25.34:794][582]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.11.14-19.25.34:794][582]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.11.14-19.25.34:794][582]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.11.14-19.25.34:794][582]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.11.14-19.25.34:794][582]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.11.14-19.25.34:794][582]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.11.14-19.25.34:794][582]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.11.14-19.25.34:795][582]LogD3D11RHI: Shutdown
+[2019.11.14-19.25.34:795][582]LogD3D11RHI: CleanupD3DDevice
+[2019.11.14-19.25.34:796][582]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.14-19.25.34:796][582]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.14-19.25.34:796][582]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.14-19.25.34:964][582]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.11.14-19.25.34:974][582]LogExit: Exiting.
+[2019.11.14-19.25.35:014][582]Log file closed, 11/14/19 22:25:35
